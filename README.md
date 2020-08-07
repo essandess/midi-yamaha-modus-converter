@@ -13,5 +13,7 @@ these DEN MIDI's.
 Example MIDI's transcribed from Glenn Gould performances of Bach's Goldberg Variations (1981)
 and the Well-Tempered Clavier are included in the subdirectory [gould_bach](./gould_bach).
 
-###### Fugue No. 20 in A minor, BWV 865 
-![Bach - Glenn Gould, The Well-Tempered Clavier, Fugue No. 20 in A minor, BWV 865](./Bach - Glenn Gould, The Well-Tempered Clavier, Fugue No 20 in A minor, BWV 865.pdf)
+###### Fugue No. 20 in A minor, BWV 865
+*Transcribed using [Magenta](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription) v2.1.0; MAESTRO model pre-trained [checkpoint](https://storage.googleapis.com/magentadata/models/onsets_frames_transcription/maestro_checkpoint.zip)*
+
+![Bach - Glenn Gould, The Well-Tempered Clavier, Fugue No. 20 in A minor, BWV 865](./Bach - Glenn Gould, The Well-Tempered Clavier, Fugue No 20 in A minor, BWV 865.png)
